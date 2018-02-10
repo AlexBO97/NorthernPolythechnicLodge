@@ -1,0 +1,62 @@
+
+@font-face {
+    font-family: 'aspergitbold';
+    src: url('../fonts/aspergit.bold-webfont.woff2') format('woff2'),
+         url('../fonts/aspergit.bold-webfont.woff') format('woff'),
+         url('../fonts/aspergit.bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'junicoderegular';
+    src: url('../fonts/junicode.regular-webfont.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+}
+
+#font {
+    font-family: 'Garamond';
+    font-weight:normal;
+    font-style:normal;
+    }
+
+p{
+    font-family: 'Garamond';
+    font-weight:normal;
+    font-style:normal;
+}
+
+#title {
+    text-align: center; 
+    font-family: 'Garamond';
+    font-weight:normal;
+    font-style:normal;
+    font-size: 20px;
+}
+
+#meeting {
+    text-align: justify; 
+    font-family: 'Garamond';
+    font-weight:normal;
+    font-style:normal;
+    font-size: 16px;
+}
+
+#northern {
+    text-align: center; 
+    font-family: 'junicoderegular';
+    font-weight:normal;
+    font-style:normal;
+    font-size: 20px;
+}
